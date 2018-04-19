@@ -10,7 +10,7 @@ This is an example of running a [rust web application](http://ironframework.io/)
 - docker
 - rust toolchain
 
-## Using this Rep
+## Getting Started
 
 ```
 git clone git@github.com:danbruder/rust-apex-up-example.git
