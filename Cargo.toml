@@ -1,0 +1,7 @@
+[package]
+name = "ironup"
+version = "0.1.0"
+authors = ["Dan Bruder <dan@debassociates.com>"]
+
+[dependencies]
+iron = "0.6.*"
